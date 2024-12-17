@@ -1,0 +1,42 @@
+body{ 
+    text-align: center;
+}
+hr{
+    border:5px solid #046A61;
+}
+h1{
+    color:#F7941D
+}
+h2{
+    color:#046A61
+}
+
+h3{
+    color:#F7941D
+}
+
+p{
+    color:#F7941D;
+}
+
+.section{
+    display: inline;
+    margin:180px;
+}
+.section2{
+    display: inline;
+    margin:180px;
+}
+
+.section3{
+    display: inline;
+    margin:180px;
+}
+.section4{
+    display: inline;
+    margin:180px;
+}
+
+.pp{
+    border:3px solid #046A61;
+}
